@@ -19,7 +19,6 @@ taskkill /f /im FortniteClient-Win64-Shipping.exe /t
 taskkill /f /im Discord.exe /t
 taskkill /f /im steam.exe /t
 taskkill /f /im notepad.exe /t
-taskkill /f /im notepad.exe /t 
 taskkill /f /im explorer.exe /t
 
 rem to add a task kill heres a template ""taskkill /f /im FortniteClient-Win64-Shipping.exe /t" just change the "FortniteClient-Win64-Shipping.exe" to the process name you want to kill
